@@ -12,6 +12,12 @@
   <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
+<<<<<<< HEAD
     <td>Mexico thanh long</td>
+=======
+    <td>Francisco Chang</td>
+    <td>Francisco Chang</td>
+    <td>Francisco Chang</td>
+>>>>>>> 99fe523c05c92a07c0258cf547984681fb21522d
   </tr>
 </table>
