@@ -12,6 +12,10 @@
   <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
+<<<<<<< HEAD
     <td>Mexico thanh long 2424</td>
+=======
+    <td>Mexico thanh long 1</td>
+>>>>>>> 1ba60eb158e92533b0840d155b5f632d021a87fb
   </tr>
 </table>
